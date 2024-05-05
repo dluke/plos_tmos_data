@@ -1,5 +1,5 @@
 # plos_tmos_data
-Bacteria tracking data for the PLOS paper
+Bacteria tracking data for PLOS paper
 
 Data for
 https://github.com/dluke/tmos
